@@ -40,7 +40,7 @@ Cloud/DevOps Engineer role focused on AWS infrastructure, IaC, and automation.
 
 ## 📫 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/morgan-ifidon-214a8b13b)
 
 <!---
 mifidon96/mifidon96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
