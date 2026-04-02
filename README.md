@@ -34,10 +34,6 @@ hands-on with AWS and Terraform while building a portfolio of real infrastructur
 - 📚 Studying for AWS SAA-C03
 - 🐍 Automating AWS tasks with Python and boto3
 
-## 🎯 Goal
-
-Cloud/DevOps Engineer role focused on AWS infrastructure, IaC, and automation.
-
 ## 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/morgan-ifidon-214a8b13b)
