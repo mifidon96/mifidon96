@@ -1,7 +1,8 @@
 # Hi, I'm Morgan 👋
 
-IT professional transitioning into Cloud/DevOps Engineering. Currently working 
-hands-on with AWS and Terraform while building a portfolio of real infrastructure projects.
+IT professional transitioning into Cloud/DevOps Engineering. I currently work in 
+a service desk role at Arvato while building hands-on experience with AWS and 
+Terraform through real infrastructure projects.
 
 ## 🛠️ Tech Stack
 
@@ -10,6 +11,7 @@ hands-on with AWS and Terraform while building a portfolio of real infrastructur
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ## 📜 Certifications
 
@@ -25,19 +27,12 @@ hands-on with AWS and Terraform while building a portfolio of real infrastructur
 | [tf-aws-starter](https://github.com/mifidon96/tf-aws-starter) | Reusable Terraform modules for VPC, EC2, and Security Groups | Terraform, AWS |
 | [vpc-flow-log-analyser](https://github.com/mifidon96/vpc-flow-log-analyser) | Provisions VPC flow logs via Terraform, analyses ACCEPT/REJECT traffic with Python | Terraform, CloudWatch, Python, boto3 |
 
-> Projects marked without links are in progress
-
 ## 📈 Currently Working On
 
 - 🔨 Building out AWS + Terraform portfolio projects
-- 📚 Studying for AWS SAA-C03
-- 🐍 Automating AWS tasks with Python and boto3
+- 📚 Studying for AWS SAA-C03 — exam end of June 2026
+- 🐧 Upskilling in Linux for Cloud/DevOps roles
 
 ## 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/morgan-ifidon-214a8b13b)
-
-<!---
-mifidon96/mifidon96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
