@@ -1,8 +1,8 @@
 # Hi, I'm Morgan 👋
 
-IT professional transitioning into Cloud/DevOps Engineering. I currently work in 
-a service desk role  while building hands-on experience with AWS and 
-Terraform through real infrastructure projects.
+IT professional with a background in service desk and cloud support, currently 
+deepening my skills in AWS and DevOps. I build infrastructure projects hands-on 
+to sharpen my understanding of cloud architecture, automation, and best practices.
 
 ## 🛠️ Tech Stack
 
