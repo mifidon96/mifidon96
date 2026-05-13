@@ -22,9 +22,8 @@ hands-on with AWS and Terraform while building a portfolio of real infrastructur
 | Project | Description | Stack |
 |---|---|---|
 | [aws-iam-audit](https://github.com/mifidon96/aws-iam-audit) | Audits AWS IAM users for MFA, stale access keys, and inactive accounts | Python, boto3, AWS IAM |
-| tf-aws-starter | Reusable Terraform modules for VPC, EC2, and Security Groups | Terraform, AWS |
-| lambda-alerts | Scheduled Lambda that monitors resources and fires SNS alerts | Lambda, SNS, Terraform |
-| docker-to-ecs | CI/CD pipeline: Docker → ECR → ECS Fargate via GitHub Actions | Docker, ECS, GitHub Actions |
+| [tf-aws-starter](https://github.com/mifidon96/tf-aws-starter) | Reusable Terraform modules for VPC, EC2, and Security Groups | Terraform, AWS |
+| [vpc-flow-log-analyser](https://github.com/mifidon96/vpc-flow-log-analyser) | Provisions VPC flow logs via Terraform, analyses ACCEPT/REJECT traffic with Python | Terraform, CloudWatch, Python, boto3 |
 
 > Projects marked without links are in progress
 
