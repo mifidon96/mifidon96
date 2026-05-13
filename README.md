@@ -1,7 +1,7 @@
 # Hi, I'm Morgan 👋
 
 IT professional transitioning into Cloud/DevOps Engineering. I currently work in 
-a service desk role at Arvato while building hands-on experience with AWS and 
+a service desk role  while building hands-on experience with AWS and 
 Terraform through real infrastructure projects.
 
 ## 🛠️ Tech Stack
