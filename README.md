@@ -15,12 +15,6 @@ to sharpen my understanding of cloud architecture, automation, and best practice
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-## 📜 Certifications
-
-- ✅ AWS Certified Cloud Practitioner
-- ✅ Microsoft Azure Fundamentals (AZ-900)
-- 🔄 AWS Solutions Architect Associate (SAA-C03) — In Progress
-
 ## 🚀 Projects
 | Project | Description | Stack |
 |---|---|---|
@@ -29,12 +23,6 @@ to sharpen my understanding of cloud architecture, automation, and best practice
 | [vpc-flow-log-analyser](https://github.com/mifidon96/vpc-flow-log-analyser) | Provisions VPC flow logs via Terraform, analyses ACCEPT/REJECT traffic with Python | Terraform, CloudWatch, Python, boto3 |
 | [cloudwatch-alerting-pipeline](https://github.com/mifidon96/cloudwatch-alerting-pipeline) | EC2 monitoring pipeline — CloudWatch alarms trigger SNS → Lambda → Slack notifications | CloudWatch, SNS, Lambda, SSM, Python, Bash |
 | [s3-lambda-dynamodb](https://github.com/mifidon96/s3-lambda-dynamodb) | Serverless file processor — S3 uploads trigger Lambda to parse CSV/JSON and write to DynamoDB | S3, Lambda, DynamoDB, Terraform, Python |
-
-## 📈 Currently Working On
-
-- 🔨 Building out AWS + Terraform portfolio projects
-- 📚 Studying for AWS SAA-C03 — exam end of June 2026
-- 🐧 Upskilling in Linux for Cloud/DevOps roles
 
 ## 📫 Contact
 
